@@ -1,2 +1,2 @@
-# repository-template
-Template repository for all the projects.
+# java-jdbc
+Exercises for learning JDBC technology
